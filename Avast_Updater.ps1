@@ -11,7 +11,7 @@
 .NOTES
   Version:           1.1
   Author:            Jeremy Nation
-  AUthor Email:      nationjd@me.com
+  Author Email:      nationjd@me.com
   Creation Date:     February 12, 2017
   Last Modifed Date: February 19, 2017
   Purpose/Change:    Modifed removal of C:\tmp installer
